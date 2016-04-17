@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Filippo Teodoro]]></title>
+        <description><![CDATA[Filippo Teodoro]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 17 Apr 2016 13:21:56 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hey Ciao!]]></title>
+            <description><![CDATA[<article><h1>Hey Ciao!</h1><p>Sai, qui non ti parlerò dei miei titoli, dei miei miei lavori e dei miei traguardi. Non mi sono mai piaciute le persone che vivono dietro le loro etichette. Mi è sempre sembrato un modo per nascondere al mondo chi si è veramente.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d97b9e870e65677216b4eefbe84589a52ed5ca8.jpg"></article>]]></description>
+            <link>undefinedhey-ciao/index.html</link>
+            <guid isPermaLink="false">7e336d21-2e49-49f9-ab52-7a92229c92f6</guid>
+            <pubDate>Sun, 17 Apr 2016 13:21:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
