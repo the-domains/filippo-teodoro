@@ -1,7 +1,7 @@
 name: Filippo Teodoro
 favicon: null
-layout_spectrum: 0.7752585795242339
-typography_spectrum: 0.831307235173881
+layout_spectrum: 0.25008
+typography_spectrum: 0.13826
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.5311553434003145
-  lightness: 0.7403910022694618
-  saturation: 0.3230599663220346
-  rhythmicContrast: 0.9589478971902281
+  brandStrength: 0.5
+  lightness: 1
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
