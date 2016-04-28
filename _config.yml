@@ -1,15 +1,7 @@
-layout_spectrum: 0.2594
-favicon: null
 name: Filippo Teodoro
-purpose: []
-analytics:
-  twitter: null
-  google: UA-62290697-4
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.2594
+typography_spectrum: 0.49875
 collections:
   - index:
       navigable: true
@@ -23,18 +15,26 @@ collections:
     permalink:
       path: '/:title/'
 cta:
-  version: null
-  bucket: null
   domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-62290697-4
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.5042553
-  lightness: 0.7234042
-  saturation: 0.5234042
-  rhythmicContrast: 0.4893617
   brandColors:
     - '#060606'
     - '#5F83BD'
     - '#FFFFFF'
     - '#213D59'
     - '#BBBDC8'
-typography_spectrum: 0.49875
+  brandStrength: 0.5042553
+  lightness: 0.7234042
+  saturation: 0.1875
+  rhythmicContrast: 0.75
+purpose: []
